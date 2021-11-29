@@ -41,16 +41,16 @@ ul {
 }
 
 .hit {
-    background-image: url('../img/fire.svg');
+    background-image: url('img/fire.svg');
 }
 
 .miss {
-    background-image: url('../img/cross.svg');
+    background-image: url('img/cross.svg');
     background-size: 20px;
 }
 
 .dead {
-    background-image: url('../img/skull.svg');
+    background-image: url('img/skull.svg');
 }
 
 a {
